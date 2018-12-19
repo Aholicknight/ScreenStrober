@@ -1,4 +1,7 @@
 # ScreenStrober
+
+**YOU NEED JAVA TO RUN THIS!**
+
 Like flashing colors? This program is perfect for you!
 
 Before using please make sure that you are not sensitive to
